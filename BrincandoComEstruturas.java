@@ -49,7 +49,7 @@ public class BrincandoComEstruturas {
 		System.out.println(minhaFila.dequeue() == 200);
 		System.out.println(minhaFila.isEmpty());
 		System.out.println();
-		System.out.println();
+		System.out.println("reporsitorio");
 		
 				
 		//OBS.: Espera-se que nenhum print mostre 'false' na tela!
